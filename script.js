@@ -1,0 +1,3 @@
+const nombres = {
+    color: 'blue'
+};
