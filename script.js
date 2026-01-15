@@ -1,3 +1,0 @@
-const nombres = {
-    color: 'blue'
-};
